@@ -1,1 +1,1 @@
-print("omega-matrix INSERT")
+print("omega-matrix UPDATE")
