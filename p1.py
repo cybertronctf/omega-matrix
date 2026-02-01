@@ -1,1 +1,1 @@
-print("omega-matrix UPDATE")
+print("omega-matrix FIX")
